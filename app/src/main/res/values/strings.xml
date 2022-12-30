@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">205410030_AureaMone</string>
+    <string name="judul">Judul Buku</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="genre">Genre</string>
+    <string name="tahun">Tahun</string>
+    <string name="view">Lihat Buku</string>
+    <string name="sebagai_profile">Pelajar</string>
+    <string name="name_profile">Nama</string>
+    <string name="profile">Profile</string>
+    <string name="item_profile_1">Nama</string>
+    <string name="content_profile_1">Aarron Heldian Darmawan</string>
+    <string name="item_profile_2">Lahir</string>
+    <string name="content_profile_2">Malang, 2 April 2003</string>
+    <string name="item_profile_3">Pekerjaan</string>
+    <string name="content_profile_3">Pelajar/Mahasiswa</string>
+    <string name="item_profile_4">Tahun Aktif</string>
+    <string name="content_profile_4">2004 - sekarang</string>
+    <string name="content">Keinginan saya saat ini mendapatkan kelas Menjadi Android Developer Expert (MADE) dan ingin bisa terus berkembang dalam belajar menjadi android developer.</string>
+    <string name="nama_penulis">Nama Penulis</string>
+    <string name="rating">Rating</string>
+    <string name="type">Type</string>
+    <string name="nama_review">Nama</string>
+    <string name="isi">Review</string>
+    <string name="halaman">Halaman</string>
+    <string name="nick_name_profile">Aarron Heldian</string>
+    <string name="item_profile_5">Email</string>
+    <string name="content_profile_5">aarron_hedlian_27rpl@student.smktelkom-mlg.sch.id</string>
+    <string name="about">About</string>
+</resources>
